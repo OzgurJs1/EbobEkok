@@ -1,2 +1,3 @@
 # Ebob-Ekok
 //Umarım bu yöntemi beğenirsiniz...
+Proje Kodları Program.cs içindedir.
