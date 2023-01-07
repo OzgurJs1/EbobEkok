@@ -1,2 +1,2 @@
-# EbobEkok
-Ebob Ekok Hesaplama
+# Ebob-Ekok
+//Umarım bu yöntemi beğenirsiniz...
